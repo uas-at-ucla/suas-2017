@@ -1,0 +1,31 @@
+Hi, here's the rundown of how our git is setup (as of 2017)
+
+This uas repo will be the main club repo so we can grab all our code at once.
+
+We'll make a branch for each year at least, and mrege those into master,
+which'll be the current repo.
+
+Because many of our projects could sensibly be their own repos, let's make
+them as repos on our own github accounts, add the main club github account
+as a collaborator, and then add the repos as submodules. That doesn't mean
+you have to make your own repo to add to this one, by all means add files here
+too.
+
+For managing branches and stuff, that aren't in submodules,
+let's try and push stuff up to personal branches, and then, we'll
+use the club github account to pull things into the respective years.
+
+for example, Vansh clones the repo, does stuff on his branch of 2017, then he
+or another club member gets onto the unmannedsystems-ucla account and pulls it
+into the 2017 branch on the main repo, probably do this with a pull request.
+
+Also, let's do commit messages like this:
+
+[repo] - [branch]
+	- bulleted
+	- list
+	- of
+	- comments
+	- and stuff
+
+for an example, run the command "git log"
