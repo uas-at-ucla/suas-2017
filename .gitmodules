@@ -1,0 +1,6 @@
+[submodule "Interop_script"]
+	path = Interop_script
+	url = https://github.com/YaacovTarko/Interop_script
+[submodule "master-controller"]
+	path = master-controller
+	url = https://github.com/YaacovTarko/master-controller
