@@ -2,7 +2,7 @@ Hi, here's the rundown of how our git is setup (as of 2017)
 
 This uas repo will be the main club repo so we can grab all our code at once.
 
-We'll make a branch for each year at least, and mrege those into master,
+We'll make a branch for each year at least, and merge those into master,
 which'll be the current repo.
 
 Because many of our projects could sensibly be their own repos, let's make
