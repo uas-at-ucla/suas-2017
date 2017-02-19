@@ -4,3 +4,6 @@
 [submodule "master-controller"]
 	path = master-controller
 	url = https://github.com/YaacovTarko/master-controller
+[submodule "gopro"]
+	path = gopro
+	url = https://github.com/vanshg/gopro.git
